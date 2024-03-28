@@ -1,11 +1,11 @@
 /* Nitro isn't real, it never even existed */
-div.header_f72511:nth-of-type(11), /* Nitro Tab in Settings */
-.themed_b957e8.item__48dda.premiumTab__57bdc,
+div.header__71a82:nth-of-type(11), /* Nitro Tab in Settings */
+.themed_b957e8.item__48dda.premiumTab_ad0913,
 div.themed_b957e8.item__48dda:nth-of-type(13),
 div.themed_b957e8.item__48dda:nth-of-type(14),
 div.themed_b957e8.item__48dda:nth-of-type(15),
 div.themed_b957e8.item__48dda:nth-of-type(16),
-div.separator_fdbcfd:nth-of-type(17) {
+div.separator_d14fb1:nth-of-type(17) {
     display: none;
 }
 #user-settings-cog-Discord_Nitro, /* Nitro Options in Settings context menu */
@@ -16,54 +16,54 @@ div.separator_fdbcfd:nth-of-type(17) {
 #user-settings-change-avatar-change-avatar-decoration {
     display: none;
 }
-.shopForAllBackgroundImage__009d9.container_d6bff4,
-.tryItOutSection__0f9fb.featureBorder_a44f20.premiumFeatureBorder__9bbb3,
-.featureBorder__1eaf9.featureBorder_a44f20.premiumFeatureBorder__9bbb3,
-.selectionGroup__36139,
+.shopForAllBackgroundImage__009d9.container__686c4,
+.tryItOutSection_d658ca.featureBorder__404e3.premiumFeatureBorder__6ac04,
+.featureBorder__77550.featureBorder__404e3.premiumFeatureBorder__6ac04,
+.selectionGroup_f2b958,
 div.themed_b957e8.item__48dda:nth-of-type(40), /* Merch tab in settings */
 [aria-label="Family Center"],
-div.customizationSection__16fec:nth-of-type(4), 
-div.customizationSection__16fec:nth-of-type(5) {
+div.customizationSection__0f57e:nth-of-type(4), 
+div.customizationSection__0f57e:nth-of-type(5) {
     display: none;
 }
-.containerWithMargin__7d380.container__4f639 /* Server boost */ {
+.containerWithMargin__3a652.container_bc43c1 /* Server boost */ {
     display: none;
 }
 /* Remove stupid Nitro locks in emoji picker */
-.emojiLockIcon__37643,
-.emojiLockIconContainer_edde9a,
-.upsellContainer__3c02a,
+.emojiLockIcon__05b24,
+.emojiLockIconContainer_ed2f80,
+.upsellContainer__15a05,
 .nitroTopDividerContainer__3d13a,
-.categoryItemLockIconContainer__9e6a3 {
+.categoryItemLockIconContainer__61fa5 {
     display: none;
 }
-.categorySectionNitroLocked_cf3b81 {
+.categorySectionNitroLocked__5b287 {
     background-color: transparent;
 }
-:is(.categorySectionNitroLocked_cf3b81 .emojiItem_b15dee, 
-.emojiItem_b15dee:has(.emojiLockIconContainer_edde9a)) .image__7ab81 {
+:is(.categorySectionNitroLocked__5b287 .emojiItem_de65fd, 
+.emojiItem_de65fd:has(.emojiLockIconContainer_ed2f80)) .image__43623 {
     filter: grayscale(1) brightness(0.75);
 }
 
-.bannerNitroUpsell__492d6, /* Removes hover options in profile settings */
-.avatarUploader__18c3f.avatarUploaderNormal__2388b {
+.bannerNitroUpsell__27b64, /* Removes hover options in profile settings */
+.avatarUploader__1f1a2.avatarUploaderNormal_d16dca {
 pointer-events: none;
 }
 
-div.optionBox__0338f:nth-of-type(2) { /* removes GIF option in pfp picker */
+div.optionBox_d9023e:nth-of-type(2) { /* removes GIF option in pfp picker */
     display: none; 
 }
-div.separator__18122:nth-of-type(2), /* server boost in server settings dropdown */
+div.separator__174fc:nth-of-type(2), /* server boost in server settings dropdown */
 #guild-header-popout-premium-subscribe {
     display: none;
 }
 /* gift nitro button in chatbar */
-.buttons_ce5b56 > .grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9 {
+.buttons__7ecff > .grow__4c8a4.colorBrand__27d57.lookBlank_a5b4ca.button__581d0 {
     display: none;
 }
 /* server boost in server settings */
-.themed_b957e8.item__48dda.serverBoostTabItem_b19426,
-div.separator_fdbcfd:nth-of-type(28) {
+.themed_b957e8.item__48dda.serverBoostTabItem__0267d,
+div.separator_d14fb1:nth-of-type(28) {
     display: none;
 }
 /* custom invite link in server settings */
@@ -71,10 +71,10 @@ div.themed_b957e8.item__48dda:nth-of-type(9) {
     display: none;
 }
 /* stickers section adjustments in server settings */
-.tierDefaultUnlocked_c0221f,
-.upsellContainer__12e24,
-.divider_cf5c94.divider_a2339a,
-.progressBar_bf2cae.progress_c8c71c,
+.tierDefaultUnlocked__9dc51,
+.upsellContainer_df4d69,
+.divider_d747f9.divider__14bb6,
+.progressBar_a0195a.progress__60d2b,
 div.tier_d16770:nth-of-type(3),
 div.tier_d16770:nth-of-type(4),
 div.tier_d16770:nth-of-type(5) {
@@ -83,21 +83,21 @@ div.tier_d16770:nth-of-type(5) {
 
 /* monetization tab in server settings */
 div.themed_b957e8.item__48dda:nth-of-type(25),
-div.header_f72511:nth-of-type(24),
-div.separator_fdbcfd:nth-of-type(26) {
+div.header__71a82:nth-of-type(24),
+div.separator_d14fb1:nth-of-type(26) {
     display: none;
 }
 /* display options in in server settings > overview */
-.divider__12403 > .sectionTitle_e32631 > .defaultMarginh1__902c1.defaultColor_d757c2.title__3e421.h1__90460,
-.divider__12403 > .children_b15c64,
-#overview-tab > div > div.children_b15c64 > div:nth-child(5) > div {
+.divider__90677 > .sectionTitle__3e02b > .defaultMarginh1__53162.defaultColor_e04945.title__1b7e8.h1_dc86b3,
+.divider__90677 > .children_aba8cb,
+#overview-tab > div > div.children_aba8cb > div:nth-child(5) > div {
     display: none;
 }
 /* server specific about me icon pop up and nitro promo */
-.aboutMeGuildIcon_b05b69.icon_c48348 {
+.aboutMeGuildIcon_b05b69.icon__94164 {
     pointer-events: none;
 }
 /* bot upgrade button */
-.grow__4c8a4.sizeSmall__71a98.colorBrand_b2253e.lookFilled__19298.button_afdfd9.button__5e6fe.button__77a14 {
+.grow__4c8a4.sizeSmall_da7d10.colorBrand__27d57.lookFilled__950dd.button__581d0.button__5e6fe.button_f9cb38 {
     display: none;
 }
